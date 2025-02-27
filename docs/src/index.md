@@ -19,7 +19,7 @@ AVIF (AV1 Image File Format) is an image format designed to offer superior image
 ```julia-repl
 julia> # Press ]
 pkg> activate
-pkg> add githup-repo
+pkg> add https://github.com/imohag9/AvifSupport.jl
 ```
 
 
