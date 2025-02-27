@@ -4,9 +4,9 @@ using Documenter
 DocMeta.setdocmeta!(AvifSupport, :DocTestSetup, :(using AvifSupport); recursive=true)
 
 makedocs(;
-    modules=[AvifSupport],
+    modules=[Avif],
     authors="imohag9 <souidi.hamza90@gmail.com> and contributors",
-    sitename="AvifSupport.jl",
+    sitename="Avif.jl",
     format=Documenter.HTML(;
         canonical="https://imohag9.github.io/AvifSupport.jl",
         edit_link="main",
@@ -14,6 +14,7 @@ makedocs(;
     ),
     pages=[
         "Home" => "index.md",
+        "References" => "reference.md",
     ],
 )
 
