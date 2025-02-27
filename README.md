@@ -12,12 +12,7 @@ AvifSupport.jl is a Julia wrapper of the C library [libavif](https://github.com/
 ## Usage
 
 
-
-
-
-
-
-
+[Usage Details](https://imohag9.github.io/AvifSupport.jl/dev/)
 
 ## Acknowledgements
 

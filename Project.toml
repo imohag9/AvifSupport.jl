@@ -3,8 +3,16 @@ uuid = "bff38aaf-160c-48a5-9daf-c138fff82437"
 authors = ["imohag9 <souidi.hamza90@gmail.com> and contributors"]
 version = "0.0.1"
 
+[deps]
+CEnum = "fa961155-64e5-5f13-b03f-caf6b980ea82"
+ImageCore = "a09fc81d-aa75-5fe9-8630-4744c3626534"
+libavif_jll = "d7a461ab-9c30-58dd-b115-285ac81dc4e5"
+
 [compat]
+CEnum = "0.5.0"
+ImageCore = "0.10.5"
 julia = "1.6.7"
+libavif_jll = "1.0.4"
 
 [extras]
 Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
